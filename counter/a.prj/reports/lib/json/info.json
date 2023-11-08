@@ -1,0 +1,7 @@
+{"rows":[
+{"data":["./a"],"classes":["info-table"],"name":"Project Name"},
+{"data":["Arria10, 10AX115U1F45I1SG"],"name":"Target Family, Device"},
+{"data":["18.1.0 Build 222"],"name":"i++ Version"},
+{"data":["19.2.0 Build 57 Pro"],"name":"Quartus Version"},
+{"data":["i++ counter.cpp -march=Arria10 --simulator none --fpga-only -v"],"name":"Command"},
+{"name":"Reports Generated At","data":["Wed Nov  8 08:08:49 2023"]}],"name":"Info"}
